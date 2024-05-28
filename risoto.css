@@ -1,0 +1,43 @@
+h1 {
+    text-align: center;
+    background-color: coral;
+}
+
+body {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(223, 223, 223);
+}
+
+img {
+    width: 450px;
+    height: 450px;
+    border-radius: 8%;
+    margin-left: 16%;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+table {
+    border: 1px solid black;
+    text-align: center;
+    margin: 0 auto;
+    background-color: coral;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+p, a {
+    margin-left: 21%;
+    margin-top: -20px;
+    color: coral;
+}
